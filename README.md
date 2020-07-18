@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Right now, this is a placeholder. I will hopefully make this a little more special in due course!
-
 <!--
 **alxfleming/alxfleming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
